@@ -1,0 +1,7 @@
+a = input("Enter number 1:")
+b = input("Enter number 2: ")
+a = float(a)
+b = float(b)
+print("Sum num1+num2 = " + str(a+b))
+print("Difference num1 - num2 = "+ str(a-b))
+print("Multiplication = " + str(a*b))
